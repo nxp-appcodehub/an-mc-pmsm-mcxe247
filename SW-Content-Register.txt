@@ -1,0 +1,13 @@
+NXP Software Content Register
+
+Package:                   an-mc-pmsm-mcxe247
+Version:                   1.0
+Outgoing License:          NXP LA_OPT_Online Code Hosting NXP_Software_License - v1.4 May 2025 
+License File:              LICENSE.txt
+Description and comments:  This demo shows the implementation of the 3-phase Permanent Magnet Synchronous Motor (PMSM) sensorless field Oriented Control (FOC) with one-shunt current sample based on the NXP MCXE247 processor.
+Release Location:          https://github.com/nxp-appcodehub/an-mc-pmsm-mcxe247
+Origin:                    NXP (proprietary)
+                           NXP (BSD-3-Clause)
+                           ARM CMSIS 6.1.0(Apache-2.0) - https://github.com/ARM-software/CMSIS_6/releases/tag/v6.1.0 
+                           Brad Conte SHA1 (Public Domain）- https://github.com/B-Con/crypto-algorithms
+                           rtcesl 4.8.1 (NXP proprietary) - https://github.com/nxp-mcuxpresso/rtcesl
