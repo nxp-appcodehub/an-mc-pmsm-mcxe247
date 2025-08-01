@@ -2,7 +2,7 @@
 [<img src="https://mcuxpresso.nxp.com/static/icon/nxp-logo-color.svg" width="100"/>](https://www.nxp.com)
 
 ## AN14616: Sensorless Field oriented Control (FOC) on MCXE24x
-This application note describes the implementation of FOC on NXP MCX E247 MCUs, including sensorless control and quadrature encoder based control. Please refer to AN14616 <!--[AN14616](https://www.nxp.com/docs/en/application-note/AN14616.pdf)Will add after release --> for complete instructions on how to use this software.      
+This application note describes the implementation of FOC on NXP MCX E247 MCUs, including sensorless control and quadrature encoder based control. Please refer to [AN14616](https://www.nxp.com/webapp/Download?colCode=AN14616&isHTMLorPDF=HTML) for complete instructions on how to use this software.      
 
 The demo code for PMSM sensorless control uses following NXP platforms:
 
@@ -32,7 +32,7 @@ The document is divided into several parts. Hardware setup, processor features, 
 - Download and install [MCUXpresso IDE V25.06 or later](https://www.nxp.com/design/design-center/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE).
 - [SDK_25_06_00_FRDM-MCXE247](https://mcuxpresso.nxp.com/zh)
 - Download and install the latest version of [FreeMASTER](https://www.nxp.com/design/software/development-software/freemaster-run-time-debugging-tool:FREEMASTER)(3.2.2.2).
-- Download the code from Git repository an-mc-pmsm-mcxe247 <!--[an-mc-pmsm-mcxe247](https://github.com/nxp-appcodehub/an-mc-pmsm-mcxe247/browse)-->.  
+- Download the code from Git repository [an-mc-pmsm-mcxe247](https://github.com/nxp-appcodehub/an-mc-pmsm-mcxe247).  
 - MCUXpresso for Visual Studio Code: This example supports MCUXpresso for Visual Studio Code, for more information about how to use Visual Studio Code please refer [here](https://www.nxp.com/design/design-center/training/TIP-GETTING-STARTED-WITH-MCUXPRESSO-FOR-VS-CODE).
 
 ## 2. Hardware<a name="step2"></a>
